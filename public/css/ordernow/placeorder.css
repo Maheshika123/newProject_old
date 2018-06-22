@@ -1,0 +1,7 @@
+.hidden-input{
+    background: 0;
+    border: 0;
+    overflow: visible;
+    outline: 0;
+    height: auto;
+}
